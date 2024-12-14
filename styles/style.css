@@ -1,5 +1,18 @@
-nav>ul>li{
-    margin-top: 10px;
-    display: flex;
-    text-align:center;
+
+/*shared common style */
+body{
+    font-family: "Lato", sans-serif;
+    font-family: "Open Sans", sans-serif;
+
+  
+}
+/*nav related */
+
+.nav-title{
+    color: #181818;
+    font-size:  45px;
+    font-weight: 800px;
+}
+.text-primary{
+    color:#FD6E0A;
 }
